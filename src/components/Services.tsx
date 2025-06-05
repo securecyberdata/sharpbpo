@@ -28,22 +28,6 @@ const Services: React.FC = () => {
             </div>
           </Col>
           <Col lg={4} md={6}>
-            <div className="service-card animate__animated animate__fadeInUp animate__delay-2s">
-              <div className="icon">
-                <i className="fas fa-phone-alt"></i>
-              </div>
-              <h3>Telemarketing</h3>
-              <p>Effective outbound calling services to generate leads and increase sales.</p>
-              <ul>
-                <li>Lead Generation</li>
-                <li>Appointment Setting</li>
-                <li>Market Research</li>
-                <li>Customer Surveys</li>
-              </ul>
-              <button className="btn btn-outline-primary">Learn More</button>
-            </div>
-          </Col>
-          <Col lg={4} md={6}>
             <div className="service-card animate__animated animate__fadeInUp animate__delay-3s">
               <div className="icon">
                 <i className="fas fa-chart-line"></i>

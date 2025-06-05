@@ -24,7 +24,7 @@ const Home: React.FC = () => {
                   <br />
                   <span className="highlight">Proven Results</span>
                 </h1>
-                <p>Expert in lead generation, telemarketing, and digital marketing to drive your business success.</p>
+                <p>Expert in lead generation and digital marketing to drive your business success.</p>
                 <div className="hero-buttons">
                   <button className="btn btn-primary">More About Us</button>
                   <button className="btn btn-outline">Watch Video</button>
@@ -95,15 +95,6 @@ const Home: React.FC = () => {
                 </div>
                 <h3>Lead Generation</h3>
                 <p>Generate qualified leads that are more likely to convert into customers.</p>
-              </div>
-            </Col>
-            <Col md={6} lg={4}>
-              <div className="service-item">
-                <div className="icon-box blue">
-                  <i className="fas fa-phone-alt"></i>
-                </div>
-                <h3>Telemarketing</h3>
-                <p>Professional outbound calling services to boost your sales.</p>
               </div>
             </Col>
             <Col md={6} lg={4}>

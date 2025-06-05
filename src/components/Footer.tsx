@@ -14,7 +14,7 @@ const Footer: React.FC = () => {
         <Row>
           <Col md={4}>
             <h5>About Us</h5>
-            <p>Sharp BPO LLC is a leading marketing agency providing expert lead generation, telemarketing, and digital marketing services.</p>
+            <p>Sharp BPO LLC is a leading marketing agency providing expert lead generation and digital marketing services.</p>
             <div className="social-links">
               <a href="#" className="me-3"><i className="fab fa-facebook"></i></a>
               <a href="#" className="me-3"><i className="fab fa-twitter"></i></a>
